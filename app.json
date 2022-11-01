@@ -1,7 +1,7 @@
 {
     "name": "Dhiman Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
-    "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
+    "keywords": ["Dhiman", "Dhiman-Music", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
     "repository": "https://github.com/Dhiman-Music",
   "stack": "container",
     "env": {
