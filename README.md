@@ -1,8 +1,8 @@
-<h2 align="centre"> 𝙕𝙖𝙞𝙙 𝙑𝙤𝙞𝙘𝙚 𝙋𝙡𝙖𝙮𝙚𝙧🔥</h2>
+<h2 align="centre">↬ 𝗗𝗛𝗜𝗠𝗔𝗡 𝗠𝗨𝗦𝗜𝗖 𝗕𝗢𝗧 ↫</h2>
 
-### ᴢᴀɪᴅ ᴠᴄ ᴘʟᴀʏᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
+### ᴅʜɪᴍᴀɴ ᴠᴄ ᴘʟᴀʏᴇʀ ɪꜱ ᴀ ᴛᴇʟᴇɢʀᴀᴍ ᴘʀᴏᴊᴇᴄᴛ ʙᴀꜱᴇᴅ ᴏɴ ᴘʏʀᴏɢʀᴀᴍ ꜰᴏʀ ᴘʟᴀʏ ᴍᴜꜱɪᴄꜱ ɪɴ ᴠᴄ ᴄʜᴀᴛꜱ...
 
-<p align="center"><a href="https://t.me/Superior_Bots"><img src="https://telegra.ph/file/c4e036012053c3eb85e80.jpg" width="300"></a></p>
+<p align="center"><a href="https://t.me/ABOUT_DHIMAN_X"><img src="https://telegra.ph/file/ce8efab574dd85199b3f3.jpg" width="300"></a></p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
 
@@ -20,7 +20,7 @@
 
 <p align="center">Deploy with Cloner Bot</p>
 
-<p align="center"><a href="https://github.com/ITZ-ZAID/Zaid-Vc-Player/tree/clone"> <img src="https://img.shields.io/badge/Cloner%20Branch-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://github.com/DhimanMusic/Dhiman-Music/tree/clone"> <img src="https://img.shields.io/badge/Cloner%20Branch-blue?style=for-the-badge&logo=github" width="220" height="38.45"/></a></p>
 
 
 #
@@ -38,10 +38,10 @@
 
 ## ᴄᴏᴍᴍᴀɴᴅꜱ 
 
-[CLICK HERE](https://t.me/SUPERIOR_BOTS/160)
+[CLICK HERE](https://t.me/ABOUT_DHIMAN_X/160)
 
 
-## ꜰᴇᴀᴛᴜʀᴇꜱ ᴡɪᴛʜ ᴀɪ 🔥️
+## ᴅʜɪᴍᴀɴ ᴠᴄ ᴘʟᴀʏᴇʀ 🔥️
 
 > Here is the given all Features.. !
 
